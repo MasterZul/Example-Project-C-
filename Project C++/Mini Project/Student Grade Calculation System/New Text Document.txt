@@ -1,0 +1,27 @@
+name []= id setiap pelajar
+totals [] = markah setiap student
+score [][]= markah semua dalam2D
+grade []= grade setiap student
+item1 []= item setiap student 1
+item2 []= item setiap student 2
+Allitem1 = markah semua item1
+Allitem2 = markah semua item2
+TotalScore = markah semua student
+Avrg1 = average item1
+Avrg2 = average item2
+AvrgAll = average allscore
+Per1 = Percentage item1
+Per2 = Percentage item2
+PerAll = Percentage AllScore
+GradeAll = Grade All
+PerStudent = Percetage setiap student
+
+ID Student    ITEM 1    ITEM2    PERCENTAGE      GRADE
+
+A14            33        50         83             A
+A14            40        50         94             A+
+A14            12        33         45             C-
+
+TOTALSCORE     85        138        223           GRADE ALL
+AVERAGE        28.3      46         74.3          B+
+PERCENTAGE     56.6      92         74.3

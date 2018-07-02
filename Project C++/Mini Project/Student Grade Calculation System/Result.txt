@@ -1,0 +1,11 @@
+ID Student         ITEM 1     ITEM2     PERCENTAGE     GRADE
+
+A14CS0123           33          50          83          A
+A14CS0173           40          55          95         A+
+A14CS0162           12          33          45         C-
+
+TOTALSCORE          85          138         223        GRADE ALL
+
+AVERAGE28.3
+PERCENTAGE56.7
+

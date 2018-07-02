@@ -1,0 +1,4 @@
+The Maximum Temperature: 36.9
+The Minimum Temperature: 23.6
+The Mean: 32.51
+The Standard Variation: 2.70378
